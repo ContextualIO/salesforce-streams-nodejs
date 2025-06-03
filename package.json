@@ -17,7 +17,7 @@
     "javascript-time-ago": "^2.0.1",
     "jsforce": "^1.9.1",
     "jsforce-connection": "^2.1.0",
-    "next": "^8.0.1",
+    "next": "^8.1.0",
     "react": "^16.8.2",
     "react-addons-css-transition-group": "^15.6.2",
     "react-dom": "^16.8.2",
